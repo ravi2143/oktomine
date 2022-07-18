@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">okto<font fgcolor="#fc830d">Mine</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="openDrawer">Drawer open</string>
+    <string name="closeDrawer">Drawer close</string>
+    <string name="request_read_phone_state">This app needs permissions to proceed further.</string>
+    <string name="new_to_oktomine_create_new_account">New To oktoMine ? Create New Account</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="notifications">Notifications</string>
+    <string name="wallet">Wallet</string>
+    <string name="refer_a_friend">Refer A Friend</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="ref_history">Referral History</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="share_ref_via">Share your Referral Link via</string>
+    <string name="telegram">Telegram</string>
+    <string name="facebook">Facebook</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="or">or</string>
+    <string name="copy">Copy</string>
+    <string name="code">Code</string>
+    <string name="your_ref_code">Your referral code</string>
+    <string name="ref_n_earn">Refer your friends and Earn</string>
+    <string name="referral_system">Referral System</string>
+    <string name="welcome">Welcome</string>
+</resources>

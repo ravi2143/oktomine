@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/notifications"
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_notification_bell"/>
+
+    <item android:title="@string/wallet"
+        android:id="@+id/wallet"
+        android:icon="@drawable/ic_wallet"/>
+
+    <item android:title="@string/refer_a_friend"
+        android:id="@+id/refer"
+        android:icon="@drawable/ic_link"/>
+
+    <item android:title="@string/settings"
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_setting_lines"/>
+
+    <item android:title="@string/support"
+        android:id="@+id/support"
+        android:icon="@drawable/ic_customer_support"/>
+
+</menu>
